@@ -1,0 +1,13 @@
+# Privacy Policy for Target Number
+
+This Privacy Policy applies to the mobile game Target Number developed by Kambek Game Studio.
+
+## Information We Collect
+We do not collect any personal data from users. However, third-party services such as AdMob may collect data to improve ad performance.
+
+## Advertising
+We use Google AdMob to serve ads in our game. AdMob may collect and use user data to display personalized ads. You can review AdMob's privacy policy here: [https://policies.google.com/technologies/ads](https://policies.google.com/technologies/ads)
+
+## Contact Us
+If you have any questions about this Privacy Policy, you can contact us at:  
+📧 kambekgamestudio@gmail.com
